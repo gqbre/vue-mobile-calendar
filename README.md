@@ -25,7 +25,7 @@ npm install vue-mobile-calendar-modified
 ```
 
 ```javascript
-import Calendar from 'vue-mobile-calendar'
+import Calendar from 'vue-mobile-calendar-modified'
 Vue.use(Calendar);
 ```
 ### 外部引用方式，引入目录文件`disk/Calendar.umd.min.js`

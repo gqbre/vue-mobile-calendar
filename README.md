@@ -21,7 +21,7 @@
 ## 使用方法
 ### npm安装
 ```bash
-npm install vue-mobile-calendar
+npm install vue-mobile-calendar-modified
 ```
 
 ```javascript

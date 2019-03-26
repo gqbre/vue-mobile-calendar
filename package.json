@@ -1,18 +1,18 @@
 {
-  "name": "vue-mobile-calendar",
-  "description": "a vue component of calendar for mobile Vue移动端日期选择控件",
+  "name": "vue-mobile-calendar-modified",
+  "description": "a vue component of calendar for mobile Vue移动端日期选择控件 modified version by gqbre",
   "keywords": [
     "calendar",
     "vue"
   ],
-  "version": "3.0.5",
-  "author": "lixin",
+  "version": "3.0.6",
+  "author": "lixin gqbre",
   "license": "MIT",
   "private": false,
-  "homepage": "https://github.com/lx544690189",
+  "homepage": "https://github.com/gqbre",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lx544690189/vue-mobile-calendar"
+    "url": "https://github.com/gqbre/vue-mobile-calendar"
   },
   "main": "dist/Calendar.umd.min.js",
   "scripts": {
